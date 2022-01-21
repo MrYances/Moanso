@@ -10,8 +10,7 @@
 #define rep4 "Javier Avila"
 #define rep5 "Yazmin Ulloa"
 #define rep6 "Johana Mendoza"
-#define rep7 "Hugo Villaran"
-#define rep8 "Piero Pino"
+#define rep7 "Eduardo Alarcon"
 #define rep9 "Raul Caceres"
 #define rep10 "Rosa Velasquez"
 using namespace std;
